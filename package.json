@@ -7,7 +7,7 @@
   "dependencies": {
     "dotenv": "^8.2.0",
     "env-cmd": "^10.0.1",
-    "gatsby": "^2.16.1",
+    "gatsby": "^4.25.7",
     "gatsby-background-image": "^0.8.15",
     "gatsby-image": "^2.2.29",
     "gatsby-plugin-manifest": "^2.2.23",
